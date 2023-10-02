@@ -1,4 +1,4 @@
-Code Basics course for JavaScript
+# Code Basics course for JavaScript
 
-Lesson 1 (Hello, World!)
-Lesson 2 (Comments)
+1. Lesson 1 (Hello, World!)
+2. Lesson 2 (Comments)
